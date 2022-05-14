@@ -1,0 +1,26 @@
+.App{
+	margin: 0 auto;
+	width: 1100px;
+	height:auto;
+
+}
+h1{
+width: 300px;
+font-family: 'Monotype Corsiva';
+font-size: 24px;
+line-height: 1.2;
+font-weight: 400;
+font-style: italic;
+letter-spacing: 0.05em;
+color: #f5929a;
+}
+p{
+padding: 15px 0 0 0;
+width:450px ;
+font-family: 'Helvetica Neue Cyr';
+font-size: 11px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.05em;
+color: #9b9fa0;
+}

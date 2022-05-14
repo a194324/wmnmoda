@@ -1,0 +1,274 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+span{
+  font-weight: 700;
+color: #99c3d2;
+}
+.Avr{
+  width: 1100px;
+  text-align:center;
+  display: flex;
+  justify-content:space-around;
+  margin-left:-100px;
+}
+.Verx{
+width: 900px;
+height:30px;
+background-image: linear-gradient(0.0deg, #ea617d 10%, #f1789a 92%);
+border-radius: 20px;
+
+}
+img{
+object-fit: cover;
+object-position: bottom; 
+}
+.Navigacia{
+  width: 800px;
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Helvetica Neue Cyr';
+font-size: 12px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.05em;
+color: #fff;
+margin-top: -27px;
+}
+.But{
+  padding: 0 50px;
+  border-radius: 10px;
+  margin-right: -50px;
+  cursor: pointer;
+}
+.ZagVerxnLev{
+  font-family: 'Helvetica Neue Cyr';
+font-size: 12px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.05em;
+color: #9b6a80;
+}
+.Nav0{
+  display: flex;
+}
+.Nav1{
+  width: 200px;
+  height: 539px;
+  border:1px solid azure;
+  background-color:azure;
+}
+.Nav2{
+  position: relative;
+  width: 113px;
+height: 266px;
+}
+.Nav20{
+  position: relative;
+  width: 113px;
+  height: 266px;
+}
+.Nav21{
+  position: absolute;
+  left: 10px;
+  top: 29px;
+  z-index: 5;
+  width: 80px;
+height: 154px;
+}
+.Nav24{
+  position: absolute;
+  left: 10px;
+  top: 190px;
+  z-index: 6;
+  width: 80px;
+height: 46px;
+}
+.Nav30{
+  margin-right: 18px;
+  margin-top: 15px;
+  position: relative;
+  width: 394px;
+height: 266px;
+}
+.Nav3{
+  position: relative;
+  width: 394px;
+height: 266px;
+}
+.Nav3p{
+  width:250px;
+  position: absolute;
+  left: 20px;
+  bottom: 15px;
+  z-index: 3;
+  font-family: Tahoma;
+font-size: 16.8px;
+line-height: 1.2;
+font-weight: 700;
+letter-spacing: -0.05em;
+color: #fdf1f4;
+}
+span1{
+  font-size: 13px;
+font-weight: 400;
+line-height: 1.2;
+letter-spacing:-0.04em;
+}
+.Nav40{
+  width: 200px;
+height: 337px;
+}
+a{
+  font-family: Tahoma;
+font-size: 11px;
+line-height: 1.2;
+font-weight: 400;
+text-decoration: underline;
+letter-spacing: -0.05em;
+color: #77b0c4;
+}
+.Ul{
+  list-style-type: none;
+}
+.kl{
+  display: flex;
+  text-align: end;
+  justify-content:end;
+  width:150px;
+  margin-bottom: 35px;
+}
+.Centrs{
+  position: absolute;
+  top: 405px;
+  left: 375px;
+  display: flex;
+  text-align: center;
+  width: 190px;
+height: 300px;
+}
+.Moda{
+  font-family: 'Helvetica Neue Cyr';
+font-size: 14px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.05em;
+color: #603e4e;
+border-bottom: 1px dashed #603e4e;
+}
+.Moda1{
+    font-family: 'Helvetica Neue Cyr';
+font-size: 14px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.05em;
+color: #603e4e;
+border-bottom: 1px dashed #603e4e;
+}
+.Centrh3{
+  font-family: Tahoma;
+font-size: 14px;
+line-height: 1.2;
+font-weight: 400;
+text-decoration: underline;
+letter-spacing: -0.05em;
+color: #946579;
+}
+.Centrp{
+text-align:left;
+width: 180px;
+font-size: 11px;
+text-decoration: none;
+letter-spacing: 0.05em;
+color: #9b9fa0;
+}
+.Cen{
+  margin-right: 12px;
+}
+.Cens{
+  position: absolute;
+  top: 1000px;
+  left: 370px;
+}
+.Cen2{
+  position: relative;
+  width: 380px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.Saitbarleft{
+  width: 200px;
+height: 337px;
+}
+.Saitbarrign{
+  position: absolute;
+  top: 890px;
+  left: 800px;
+  width: 200px;
+height: 337px;
+}
+.Barh3{
+  font-family: 'Helvetica Neue Cyr';
+font-size: 12px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.05em;
+color: #9b6a80;
+}
+.Barlev{
+  margin-bottom: 30px;
+  max-width:190px ;
+  display:flex ;
+  justify-content:space-around
+}
+.Text{
+  max-width: 100px;
+}
+.Ban{
+  position: absolute;
+  top: 499px;
+  right: 260px;
+  width: 201px;
+height: 336px;
+}
+.Nav a{
+  font-family: 'Helvetica Neue Cyr';
+font-size: 11px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.05em;
+color: #946579;
+text-decoration: none;
+margin-right: 20px;
+}
+.Footer{
+  height:150px;
+position: absolute;
+left: 0;
+bottom:-900px;
+width: 100%;
+}
+.Cartinka{
+  position: absolute;
+  bottom: 80px;
+  right: 450px;
+  width: 92px;
+height: 96px;
+}
+.Cart{
+  position: absolute;
+  right: 360px;
+  bottom: 80px;
+  width: 88px;
+height: 31px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
